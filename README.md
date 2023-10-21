@@ -19,6 +19,29 @@ This Java project involves:
 * Utilizing loops and string/character processing.
 * Working with ASCII codes.
 
+## How to Use 
+# You should Install Java_FX to run this Project's GUI.
+### Encryption with Caesar Cipher:
+
+* Extract the whole src File and Run FXDrive.java file
+* Input the plaintext message and a shift value.
+* The program will encrypt the message using the Caesar Cipher.
+
+ ### Decryption with Caesar Cipher:
+* Input the ciphertext message and the same shift value used for encryption.
+* The program will decrypt the message using the Caesar Cipher.
+
+### Encryption with Bellaso Cipher:
+* Input the plaintext message and a keyword.
+* The program will encrypt the message using the Bellaso Cipher.
+
+  
+  ### Decryption with Bellaso Cipher:
+* Input the ciphertext message and the same keyword used for encryption.
+* The program will decrypt the message using the Bellaso Cipher.  
+
 # ScreenShots OF Gui
+![Screenshot 2023-10-20 200751](https://github.com/Abhishekpo/Encryption_Decryption_Algorithm_JAVA/assets/98496284/b64609ac-a403-4d8f-b7a7-c04999065de1)
+![Screenshot 2023-10-20 201034](https://github.com/Abhishekpo/Encryption_Decryption_Algorithm_JAVA/assets/98496284/da07418c-cb0a-4972-b565-397224bb9984)
 
 
